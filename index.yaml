@@ -3,12 +3,12 @@ entries:
   vp-gudhelm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-23T10:35:27.2469654+01:00"
+    created: "2024-09-23T13:29:21.8501468+01:00"
     description: A Helm chart for Kubernetes
-    digest: c69f6ea1d8094dee7b7314ff28731096521c72394ca90013a1de94b8c9df9758
+    digest: cffb9b0c86e174f76dd4648fc4081b75b4c6db6e7ef6aa307650f4df94fd0775
     name: vp-gudhelm
     type: application
     urls:
     - https://y4gud.github.io/vhelm-java/charts/vp-gudhelm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-23T10:35:27.2428863+01:00"
+generated: "2024-09-23T13:29:21.8493019+01:00"
